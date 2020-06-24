@@ -11,10 +11,18 @@
   "author": "AmirHaytham",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.19.4"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirHaytham/Shopping-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AmirHaytham/Shopping-System/issues"
+  },
+  "homepage": "https://github.com/AmirHaytham/Shopping-System#readme"
 }
