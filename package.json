@@ -1,5 +1,5 @@
 {
-  "name": "shopping-system",
+  "name": "Shopping-System",
   "version": "1.0.0",
   "description": "Shopping-System",
   "main": "app.js",
@@ -11,21 +11,13 @@
   "author": "AmirHaytham",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^1.19.4"
+    "nodemon": "^1.18.3"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.17.1",
+    "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "pug": "^2.0.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AmirHaytham/Shopping-System.git"
-  },
-  "bugs": {
-    "url": "https://github.com/AmirHaytham/Shopping-System/issues"
-  },
-  "homepage": "https://github.com/AmirHaytham/Shopping-System#readme"
+  }
 }
