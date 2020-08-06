@@ -1,2 +1,2 @@
 # iBooky api
-:fire:iBooky back-end. In progess:sparkles:
+:fire:iBooky back-end. :sparkles:In progess
