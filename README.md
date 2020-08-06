@@ -1,2 +1,2 @@
-# iBooky-api
-A Mini book store website inspired by wattpad 
+# iBooky api
+iBooky api 
